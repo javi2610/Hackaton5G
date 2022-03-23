@@ -1,0 +1,7 @@
+ffmpeg_python==0.2.0
+opencv_python==4.5.3.56
+numpy==1.18.5
+scipy==1.5.4
+openvino==2021.4.1
+paho_mqtt==1.6.1
+pytesseract==0.3.7

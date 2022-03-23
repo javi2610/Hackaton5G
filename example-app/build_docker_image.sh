@@ -1,0 +1,1 @@
+docker build . -t hackathon-5g-text-recognition-app:1.0 -f Dockerfile
